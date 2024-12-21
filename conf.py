@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'jakub'
+project = 'cwiczenia'
 copyright = '2024, jakub'
 author = 'jakub'
 release = '1.0'
@@ -15,7 +15,6 @@ release = '1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
-
 templates_path = ['_templates']
 exclude_patterns = []
 
