@@ -17,7 +17,7 @@ release = '1.0'
 extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
-
+latex_engine = 'pdflatex'
 language = 'pl'
 
 # -- Options for HTML output -------------------------------------------------
@@ -25,3 +25,4 @@ language = 'pl'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
